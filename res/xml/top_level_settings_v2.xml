@@ -146,7 +146,7 @@
     </PreferenceCategory>
 
     <PreferenceCategory
-        android:order="-110"
+        android:order="-100"
         android:key="top_level_system_info_category"
         android:layout="@layout/settingslib_preference_category_no_title">
         <com.android.settings.widget.HomepagePreference
@@ -190,7 +190,7 @@
     </PreferenceCategory>
 
     <PreferenceCategory
-        android:order="-100"
+        android:order="-110"
         android:key="top_level_security_privacy_category"
         android:layout="@layout/settingslib_preference_category_no_title">
         <com.android.settings.widget.HomepagePreference
